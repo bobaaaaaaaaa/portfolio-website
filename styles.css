@@ -213,4 +213,9 @@ html {
 
 .contactlist a {
     color: black;
+    text-decoration: underline;
+}
+
+.spacer {
+    height: 280px;
 }
